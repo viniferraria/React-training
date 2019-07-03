@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './button.css';
 
-export default class Button extends Component{
+export default class Button extends Component {
     constructor(props) {
         super(props)
         this.state = { name: this.props.name }
@@ -9,7 +9,7 @@ export default class Button extends Component{
     }
 
     handleClick = () => {
-        alert("hello");
+        //alert("hello");
         if (this.state.name === 'Vini') {
             this.setState({ name: 'Thor' })
         } else {

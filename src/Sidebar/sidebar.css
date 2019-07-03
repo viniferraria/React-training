@@ -4,7 +4,7 @@
 }
 
 a:link {
-  color: red;
+  color: black;
 }
 
 a:visited {
@@ -19,3 +19,7 @@ a:active {
   color: blue;
 }
 
+li{
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
