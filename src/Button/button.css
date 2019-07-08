@@ -1,16 +1,16 @@
 button {
   position: relative;
-  background-color: #13975577;
+  background-color: #000000ea;
   font-size: 20px;
+  color: white;
   border-radius: 12px;
   padding: 14px 40px;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
   left: 46%;
 }
-
 button:hover{
-  color:white;
+  color:red;
   background-color: black;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 

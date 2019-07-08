@@ -1,11 +1,11 @@
 h2{
-    text-align: center;
-    color: #000000;
-    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-    
+  text-align: center;
+  color: #ffffff;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  monospace;
+  animation: example infinite 5s linear;
 }
 
 hr  {
-  border-color:#61dafb;;
+  border-color: red;
 }
