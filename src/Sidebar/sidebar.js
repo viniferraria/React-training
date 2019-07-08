@@ -4,7 +4,7 @@ import './sidebar.css';
 export default class Sidebar extends Component {
     constructor(props) {
         super(props)
-        this.state = { name: 'v' }
+        this.state = { name: '' }
     }
 
     render() {

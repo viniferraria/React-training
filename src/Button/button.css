@@ -1,12 +1,12 @@
 button {
-  position: 'center';
+  position: relative;
   background-color: #13975577;
   font-size: 20px;
   border-radius: 12px;
   padding: 14px 40px;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-    
+  left: 46%;
 }
 
 button:hover{
